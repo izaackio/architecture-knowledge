@@ -2,6 +2,7 @@
 
 ## General Knowledge on Architecture and Solutions Architecture
 * https://betterprogramming.pub/how-to-switch-from-software-developer-to-solutions-architect-5e0c12bdc4b1 - What is Solutions Architecture about and how to become a Solutions Architect?
+* https://www.youtube.com/watch?v=DngAZyWMGR0 - Martin Fowler talk on why Architecture Matters
 
 ## Architecture Frameworks
 
